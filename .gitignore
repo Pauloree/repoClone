@@ -1,0 +1,6 @@
+# Lista NEGRA
+# Ignorando arquivos por nome explicitamente: nome.txt
+teste.txt
+
+# Ignorando TODOS: *.js
+*.js
